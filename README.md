@@ -10,7 +10,7 @@
     <a href="https://personal.ntu.edu.sg/yhe/">Ying He</a>
   </p>
   <!-- <h3 align="center">ECCV 2024</h3> -->
-  <h3 align="center"><a href="https://arxiv.org/abs/2310.05524">Paper</a> </a></h3>
+  <h3 align="center"><a href="https://arxiv.org/pdf/2411.15723">Paper</a> </a></h3>
   <!-- | <a href="https://xubaixinxbx.github.io/neuparam/">Project Page -->
   <div align="center"></div>
 </p>
