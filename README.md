@@ -1,4 +1,4 @@
-<h1 align="center">Gsurf: GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision
+<h1 align="center">Gsurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision
 </h1>
   <p align="center">
     <a href="https://xubaixinxbx.github.io/">Baixin Xu</a>
