@@ -9,7 +9,6 @@ This repository contains the training and inference code path used for GSurf on:
 - DTU scenes preprocessed in the 2DGS/3DGS COLMAP layout (`sparse/0`, `images/`)
 - OmniObject3D scenes with `transforms.json` and `images/`
 
-Other dataset loaders, viewers, and large evaluation scripts are intentionally excluded from this release.
 
 ## Installation
 
@@ -18,7 +17,7 @@ conda env create -f environment.yml
 conda activate gsurf
 ```
 
-The environment file installs the two CUDA extensions from the vendored source folders:
+The environment file installs the two CUDA extensions from the source folders:
 
 ```bash
 pip install submodules/diff-surfel-rasterization
