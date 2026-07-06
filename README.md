@@ -4,7 +4,11 @@ Official code for **GSurf: Learning signed distance fields from splatting opaque
 
 [Paper](https://arxiv.org/pdf/2411.15723) | [Pretrained meshes](https://drive.google.com/drive/folders/1bikta-AmHjA-JjCI3RGbSHRRQrOrTw4L?usp=sharing)
 
-<video controls src="supp_video.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/6132c494-8cf0-4791-9d51-435fdcd761f5
+
+
 
 This repository contains the training and inference code path used for GSurf on:
 
