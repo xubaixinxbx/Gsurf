@@ -4,6 +4,8 @@ Official code for **GSurf: Learning signed distance fields from splatting opaque
 
 [Paper](https://arxiv.org/pdf/2411.15723) | [Pretrained meshes](https://drive.google.com/drive/folders/1bikta-AmHjA-JjCI3RGbSHRRQrOrTw4L?usp=sharing)
 
+<video controls src="supp_video.mp4" title="Title"></video>
+
 This repository contains the training and inference code path used for GSurf on:
 
 - DTU scenes preprocessed in the 2DGS/3DGS COLMAP layout (`sparse/0`, `images/`)
