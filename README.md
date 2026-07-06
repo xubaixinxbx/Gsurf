@@ -1,6 +1,6 @@
 # GSurf
 
-Official minimal release code for **GSurf: Learning signed distance fields from splatting opaque Gaussians for high-quality 3D reconstruction**.
+Official code for **GSurf: Learning signed distance fields from splatting opaque Gaussians for high-quality 3D reconstruction**.
 
 [Paper](https://arxiv.org/pdf/2411.15723) | [Pretrained meshes](https://drive.google.com/drive/folders/1bikta-AmHjA-JjCI3RGbSHRRQrOrTw4L?usp=sharing)
 
