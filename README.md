@@ -2,7 +2,7 @@
 
 Official minimal release code for **GSurf: Learning signed distance fields from splatting opaque Gaussians for high-quality 3D reconstruction**.
 
-[Paper](https://arxiv.org/pdf/2411.15723)
+[Paper](https://arxiv.org/pdf/2411.15723) | [Pretrained meshes](https://drive.google.com/drive/folders/1bikta-AmHjA-JjCI3RGbSHRRQrOrTw4L?usp=sharing)
 
 This repository contains the training and inference code path used for GSurf on:
 
@@ -116,7 +116,7 @@ This code builds on 2D Gaussian Splatting and the 3D Gaussian Splatting codebase
 ## Citation
 If you find our code or paper useful, please consider citing
 ```
-@article{XU2026104106,
+@article{XU2026gsurf,
 title = {GSurf: Learning signed distance fields from splatting opaque Gaussians for high-quality 3D reconstruction},
 journal = {Computer-Aided Design},
 volume = {199},
